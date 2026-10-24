@@ -1,0 +1,27 @@
+year,make,original_model,trim,original_msrp,msrp_source_url,drivetrain
+2025,TOYOTA,COROLLA,LE,22325,https://prd.jsds.tms.aws.toyota.com/home/vehicles/corolla/2025/index.page,FWD
+2025,TOYOTA,COROLLA,SE,24765,https://prd.jsds.tms.aws.toyota.com/home/vehicles/corolla/2025/index.page,FWD
+2025,TOYOTA,COROLLA,FX,26650,https://prd.jsds.tms.aws.toyota.com/home/vehicles/corolla/2025/index.page,FWD
+2025,TOYOTA,COROLLA,XSE,28040,https://prd.jsds.tms.aws.toyota.com/home/vehicles/corolla/2025/index.page,FWD
+2025,TOYOTA,CAMRY,LE,28700,https://pressroom.toyota.com/,FWD
+2025,TOYOTA,CAMRY,SE,31000,https://pressroom.toyota.com/,FWD
+2025,TOYOTA,CAMRY,XLE,33700,https://pressroom.toyota.com/,FWD
+2025,TOYOTA,CAMRY,XSE,34900,https://pressroom.toyota.com/,FWD
+2024,TOYOTA,RAV4,LE,28675,https://pressroom.toyota.com/,FWD
+2024,TOYOTA,RAV4,XLE,30185,https://pressroom.toyota.com/,FWD
+2024,TOYOTA,COROLLA,LE,22050,https://www.toyota.com/corolla/2024/,FWD
+2023,TOYOTA,COROLLA,LE,21700,https://www.cars.com/research/toyota-corolla-2023/specs/,FWD
+2022,TOYOTA,COROLLA,LE,20875,https://www.cars.com/research/toyota-corolla-2022/specs/,FWD
+2024,TOYOTA,CAMRY,LE,26420,https://pressroom.toyota.com/,FWD
+2024,TOYOTA,CAMRY,SE,27960,https://pressroom.toyota.com/,FWD
+2024,TOYOTA,CAMRY,LE,27820,https://pressroom.toyota.com/,AWD
+2024,TOYOTA,CAMRY,SE,29360,https://pressroom.toyota.com/,AWD
+2026,TOYOTA,COROLLA,LE,22725,https://pressroom.toyota.com/bold-and-compact-the-2026-toyota-corolla-offers-impressive-features-and-technology/,FWD
+2024,HONDA,CR-V,EX,32010,https://automobiles.honda.com/2024/cr-v/,FWD
+2024,HONDA,CR-V,EX-L,34660,https://automobiles.honda.com/2024/cr-v/,FWD
+2025,HONDA,CR-V,EX,32350,https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=cr-v,FWD
+2025,HONDA,CR-V,EX-L,35000,https://automobiles.honda.com/tools/build-and-price-trimwalk?modelseries=cr-v,FWD
+2024,HONDA,CIVIC,SPORT,25550,https://hondanews.com/en-US/releases/release-5003aaa39c009393f5d06d620f08fa05-2024-honda-civic-sedan-pricing-and-epa-ratings?downloadUrl=%2Fen-US%2Freleases%2Frelease-5003aaa39c009393f5d06d620f08fa05%2Fdownload&la=1,FWD
+2023,HONDA,CR-V,EX-L,35260,https://hondanews.com/en-US/honda-automobiles/releases/release-1503019bd8a757ea08267d794438d875-2023-honda-cr-v-hybrid-pricing-and-epa-ratings,AWD
+2023,HONDA,CR-V,EX,32610,https://hondanews.com/en-US/honda-automobiles/releases/release-1503019bd8a757ea08267d794438d875-2023-honda-cr-v-hybrid-pricing-and-epa-ratings,AWD
+2023,HONDA,CR-V,SPORT TOURING,38600,https://hondanews.com/en-US/honda-automobiles/releases/release-1503019bd8a757ea08267d794438d875-2023-honda-cr-v-hybrid-pricing-and-epa-ratings,AWD
